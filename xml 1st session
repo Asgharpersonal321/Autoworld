@@ -1,1 +1,27 @@
 
+<car-list>
+<car>
+<name>Honda Civic</name>
+<Modal>2023</Modal>
+<car-papers>All Clear</car-papers>
+<kilo-meters>500000</kilo-meters>
+<condition>10 by 10</condition>
+<price>72-lakh</price>
+</car>
+<name>Honda Civic</name>
+<Modal>2023</Modal>
+<car-papers>All Clear</car-papers>
+<kilo-meters>500000</kilo-meters>
+<condition>10 by 10</condition>
+<price>72-lakh</price>
+</car>
+<name>Honda Civic</name>
+<Modal>2023</Modal>
+<car-papers>All Clear</car-papers>
+<kilo-meters>500000</kilo-meters>
+<condition>10 by 10</condition>
+<price>72-lakh</price>
+
+
+</car-list>
+
